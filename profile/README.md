@@ -1,4 +1,4 @@
-## Hi there 👋
+## RAMEN - 🍜 - Relational Analytics, Multimodal Exploration, and Networks Laboratory
 
 <!--
 
