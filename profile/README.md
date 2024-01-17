@@ -1,4 +1,4 @@
-## RAMEN - 🍜 - Relational Analytics, Multimodal Exploration, and Networks Laboratory
+## RAMEN 🍜 - Relational Analytics, Multimodal Exploration, and Networks Laboratory
 
 <!--
 
