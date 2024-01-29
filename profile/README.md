@@ -1,5 +1,7 @@
 ## RAMEN 🍜 - Relational Analytics, Multimodal Exploration, and Networks Laboratory
 
+We are a research group specializing in Data Management Systems research at Polytechnique Montréal in Québec, Canada. We aim to contribute to the expanding academic community of data management in Montréal. The group is led by [Amine Mhedhbi](https://amine.io/).
+
 <!--
 
 **Here are some ideas to get you started:**
