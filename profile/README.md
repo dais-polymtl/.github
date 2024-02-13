@@ -1,9 +1,8 @@
-## RAMEN 🍜 - Relational Analytics, Multimodal Exploration, and Networks Laboratory
+## Data Systems Group (DSG) @ Polytechnique
 
-We are a research group specializing in Data Management Systems research at [Polytechnique Montréal](https://www.polymtl.ca/gigl/) in [Québec](https://en.wikipedia.org/wiki/Quebec), Canada. We aim to contribute to the expanding academic community of data management in Montréal. The group is led by [Amine Mhedhbi](https://amine.io/).
+We are a research group specializing in all aspects of data and information management research at [Polytechnique Montréal](https://www.polymtl.ca/gigl/) in [Québec](https://en.wikipedia.org/wiki/Quebec), Canada. We aim to contribute to the expanding academic community of data management in Montréal. The group is led by [Amine Mhedhbi](https://amine.io/).
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
