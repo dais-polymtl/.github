@@ -1,4 +1,4 @@
-## Welcome to the Data Systems Group (DSG) @ PolyMtl
+## Welcome to the Data Systems Group (DSG) @ Polytechnique Montréal
 
 **DSG** is a research group specializing in all aspects of data and information management research at [Polytechnique Montréal](https://www.polymtl.ca/gigl/), an engineering school affiliated with [Université de Montréal (UdeM)](https://www.umontreal.ca/) in [Montréal](https://en.wikipedia.org/wiki/Montreal), [Québec](https://en.wikipedia.org/wiki/Quebec), Canada. 
 
