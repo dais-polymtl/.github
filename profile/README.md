@@ -4,6 +4,6 @@ Bonjour! 👋
 
 #### People:
 **PI:** [Amine Mhedhbi](https://amine.io/), Assistant Professor at École Polytechnique de Montréal     
-**Current Grad Students:** [Eyad Salama](https://izarrios.github.io/) (2026 incoming), [Anas Dorbani](https://anasdorbani.com/) (2025-), [Sunny Yasser](https://yassersun.github.io/) (2024-)
+**Current Grad Students:** [Eyad Salama](https://izarrios.github.io/) (2026-), [Anas Dorbani](https://anasdorbani.com/) (2025-), [Sunny Yasser](https://yassersun.github.io/) (2024-)
 
 <!--Our research focuses on the foundations of analytical data management systems to ***empower individuals and organizations to easily make sense of their varying datasets at scale***. We develop systems for different phases of the data management cycle with a focus on: i) data preparation; ii) querying heterogeneous datasets; iii) interactive knowledge management; and iv) visual data interfaces. Within these phases, we research performance considerations in query execution and optimization, debuggability and tracing, data interface design, and higher-level applications. Finally, we highly value deployments to end users of all technical levels.-->
