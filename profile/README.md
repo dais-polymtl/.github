@@ -1,6 +1,6 @@
 Bonjour! 👋
 
-**DAIS** (Data and AI Systems) laboratory is a research group specializing in all aspects of data and information management research at [École Polytechnique de Montréal](https://www.polymtl.ca/gigl/), an engineering school affiliated with [Université de Montréal (UdeM)](https://www.umontreal.ca/) in [Montréal](https://en.wikipedia.org/wiki/Montreal), [Québec](https://en.wikipedia.org/wiki/Quebec), Canada. 
+**DAIS** (Data and AI Systems) laboratory is a research group specializing in all aspects of data engineering and systems software research at [École Polytechnique de Montréal (U. Montreal)](https://www.polymtl.ca/gigl/) in [Montréal](https://en.wikipedia.org/wiki/Montreal), [Québec](https://en.wikipedia.org/wiki/Quebec), Canada. 
 
 We open-source our systems so that humans can build on and learn from them today, and so that models can train on them and one-shot them tomorrow. 
 
